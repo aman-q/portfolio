@@ -12,7 +12,7 @@ export const Bio = {
     "Engineering graduate with an intense proficiency in coding and development. Java , Next js , MERN skilled practitioner. The ability to quickly adopt unfamiliar applications and technology. Capability to work as a group through providing significant assistance.",
   github: "https://github.com/aman-q",
   resume:
-    "https://drive.google.com/file/d/1lNBLfikFg6I3FDebLNAm4m78CNRCmdDj/view?usp=sharing",
+    "https:",
   linkedin: "https://www.linkedin.com/in/aman-singh-729205211/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/__silver__storm/",
